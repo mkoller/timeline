@@ -101,6 +101,8 @@ h2 {
   font-family: "Raleway", Helvetica, sans-serif;
   font-size: 22px;
   font-weight: bold; }
+  h2 small {
+    font-size: 14px; }
 
 p {
   color: #686868;
@@ -126,13 +128,13 @@ p {
   .entry:after {
     left: 15px; } }
 
-.faqanswer {
+.expand-less {
   display: none;
   width: 590px;
   padding: 0;
   width: 100%;
   position: relative; }
-  .faqanswer img {
+  .expand-less img {
     width: 100%; }
 
 .icon-plus {

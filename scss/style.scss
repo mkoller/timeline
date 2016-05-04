@@ -125,6 +125,9 @@ h2 {
    font-family: "Raleway", Helvetica, sans-serif;
    font-size: 22px;
    font-weight: bold;
+   small {
+      font-size: 14px;
+   }
 }
 
 p {
@@ -159,7 +162,7 @@ p {
 }
 
 //expand 
-.faqanswer {
+.expand-less {
 	display: none;
 	width: 590px;
 	padding: 0;
